@@ -64,3 +64,16 @@ Personal working-style rules. Project facts belong in AGENTS.md.
   renaming files, modifying shared modules. Proceed without asking for additive
   changes, tests, and notes.
 - Clean up temp files you create.
+
+## AI agent skill development
+
+- When creating a new skill, use the following structure:
+>  Interview me to find out what you are going to create
+>  - Interview. ask one question at a time:
+>  - what triggers the skill (the user request or situation)
+>  - what goal and output it should produce
+>  - the exact steps
+>  - which tools, repos or credentials it needs
+>  - known gotchas, and what to never do
+>  - what done looks like (how it gets verified)
+>  - one or two concrete examples
