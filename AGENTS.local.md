@@ -77,3 +77,7 @@ Personal working-style rules. Project facts belong in AGENTS.md.
 >  - known gotchas, and what to never do
 >  - what done looks like (how it gets verified)
 >  - one or two concrete examples
+
+## README maintenance
+
+- After creating a new feature or updating an existing one, update `README.md` in the same change: add/refresh its row in the Features table (name, link, description, date).
