@@ -1,0 +1,20 @@
+{
+  "browser_path": null,
+  "location": "Germany",
+  "job_type": "F",
+  "hours": 24,
+  "max_pages": 1,
+  "lanes": {
+    "Backend": {
+      "keywords": ["Senior Backend Engineer", "Staff Engineer", "Software Architect"],
+      "title_regex": "\\b(backend|back-end|staff|principal|architect)\\b"
+    },
+    "AI": {
+      "keywords": ["AI Engineer", "LLM Engineer"]
+    }
+  },
+  "seen_file": null,
+  "seen_id_regex": "linkedin:(\\d+)",
+  "output": "linkedin-candidates.json",
+  "fetch_details": true
+}
